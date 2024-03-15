@@ -1,6 +1,4 @@
-# Android-NewsApp
-
-# MyNewsApp - Readme
+# MyNewsApp 
 
 ## Introduction
 The MyNewsApp is a mobile application developed for Android devices, designed to provide
