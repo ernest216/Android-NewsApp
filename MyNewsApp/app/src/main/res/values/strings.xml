@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyNewsApp</string>
+    <string name="title_home">Trending</string>
+    <string name="title_dashboard">More News</string>
+    <string name="title_notifications">Search</string>
+    <string name="latest_news">Latest News</string>
+    <string name="photo">TODO</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+    <string name="news_categories">News Categories</string>
+</resources>
